@@ -12,7 +12,7 @@ console.log(newArray);
 const stringArray = ["hello", "world", "example"];
 
 function containsOnlyLowerCase(array) {
-  return array.every(str => /^[a-z]+$/.test(str));
+  return (str => /^[a-z]+$/.test(str));
 }
 
 
