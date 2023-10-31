@@ -31,7 +31,7 @@ console.log(stringArray);
 const students = [
     {
       name: "Arshak",
-      lastName: "DKhachatryan",
+      lastName: "Khachatryan",
       groupNumber: 101,
       grades: [17, 15, 14, 14, 13],
     },
